@@ -1,0 +1,18 @@
+.num{
+    margin-left: 5%;
+    width: 40px;
+}
+
+.inc{
+    background-color:blueviolet;
+    font-size: 100%;
+}
+
+
+.dec{
+    background-color: blueviolet;
+}
+
+.reset{
+    background-color: blueviolet;
+}
